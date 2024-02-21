@@ -1,0 +1,6 @@
+com\mycompany\resources\JakartaEE10Resource.class
+com\mycompany\entites\Product.class
+com\mycompany\helper\FactoryProvider.class
+com\mycompany\JakartaRestConfiguration.class
+com\mycompany\entites\Category.class
+com\mycompany\entites\User.class
